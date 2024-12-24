@@ -10,7 +10,7 @@ layout: default
 
 ## 可用的工具
 
-- **[ServiceTitan](servicetitan.md):** 一个为家庭服务业务量身定制的平台，旨在帮助企业更好地管理现场服务运作。
+- **[ServiceTitan](servicetitan.html):** 一个为家庭服务业务量身定制的平台，旨在帮助企业更好地管理现场服务运作。
 - **[Salesforce Field Service](salesforce-fs.md):** 一款功能强大且具有高级分析功能的服务资源调度解决方案。
 
 探索这些工具，了解它们的功能、优点和在 FSM 生态系统中的应用场景。
