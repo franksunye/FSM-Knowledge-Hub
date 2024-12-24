@@ -1,12 +1,12 @@
 ---
-title: Technology
+title: 技术
 nav_order: 5
 layout: default
 ---
 
-# Technology Overview
+# 技术概述
 
-This section delves into the technological foundations of Field Service Management (FSM). Discover the innovations, frameworks, and systems that power modern FSM solutions.
+这个章节深入探索 Field Service Management (FSM) 的技术基础。了解到现场服务管理中使用的最新技术，帮助您优化现场服务流程。
 
 ## Topics in Technology
 

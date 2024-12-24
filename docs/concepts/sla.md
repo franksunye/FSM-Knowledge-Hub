@@ -1,6 +1,6 @@
 ---
 title: SLA（服务级别协议）
-parent: Concepts
+parent: 概念
 layout: default
 ---
 
@@ -43,7 +43,7 @@ layout: default
 
 ## 参考
 
-i4T Global的一篇文章[《如何正确的度量SLA》](https://i4tglobal.com/service-level-agreement-field-service-companies/){:target="_blank"}是一篇不错的内容参考，详细的解释了SLA的分类方法、度量方法和最佳实践。
+i4T Global的一篇文章[《如何正确的度量SLA》](https://i4tglobal.com/service-level-agreement-field-service-companies/?utm_source=franksunye.github.io/FSM-Knowledge-Hub/){:target="_blank"}是一篇不错的内容参考，详细的解释了SLA的分类方法、度量方法和最佳实践。
 
 ---
 
