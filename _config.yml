@@ -28,20 +28,23 @@ github_username:  franksunye
 
 # Build settings
 theme: just-the-docs
+
 plugins:
   - jekyll-feed
 
 # Just the Docs 配置
 just_the_docs:
   logo: "/assets/images/logo.png" # 添加 Logo
-  search_enabled: true            # 启用搜索功能
+search_enabled: true            # 启用搜索功能
 
-  # 顶部右侧的附加链接
-  aux_links:
-    "GitHub":
-      url: https://github.com/franksunye/fsm-book # 删除多余的列表符号
-  navigation:
-    structure: true # 自动根据文件结构生成导航（如果需要手动配置导航，可以移除此行）
+# 顶部右侧的附加链接
+# Aux links for the upper right navigation
+# aux_links:
+#   "FSM Knowledge Hub on GitHub":
+#     - "https://github.com/franksunye/FSM-Knowledge-Hub"
+
+navigation:
+  structure: true # 自动根据文件结构生成导航（如果需要手动配置导航，可以移除此行）
 
 collections:
   docs:
@@ -67,3 +70,24 @@ collections:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Footer content
+# appears at the bottom of every page's main content
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "返回顶部"
+
+footer_content: 'Copyright &copy; 2024-2030 franksunye. All rights reserved.'
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "在GitHub上编辑此页"
+gh_edit_repository: "https://github.com/franksunye/FSM-Knowledge-Hub" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
