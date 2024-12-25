@@ -8,6 +8,8 @@ layout: default
 
 服务级别协议（Service Level Agreement，简称 SLA）是客户与服务提供商之间达成的一份协议，明确服务的期望标准和目标。SLA 是现场服务管理（FSM）中的关键概念之一，用于确保服务质量与客户满意度。
 
+![SLA  in FSM](https://learn.microsoft.com/en-us/dynamics365/customer-service/media/sla-pause-resume.png)
+
 ## SLA 的核心要素
 
 1. **服务范围**：
@@ -43,7 +45,9 @@ layout: default
 
 ## 参考
 
-- [《如何正确的度量SLA》](https://i4tglobal.com/service-level-agreement-field-service-companies/?utm_source=franksunye.github.io/FSM-Knowledge-Hub/){:target="_blank"}，这是i4T Global的一篇文章，详细的解释了SLA的分类、度量方法和最佳实践。
+- [如何正确的度量SLA](https://i4tglobal.com/service-level-agreement-field-service-companies/?utm_source=franksunye.github.io/FSM-Knowledge-Hub/){:target="_blank"}，i4T Global的文章，详细的解释了SLA的分类、度量方法和最佳实践。
+- [工单的SLA](https://learn.microsoft.com/en-us/dynamics365/field-service/sla-work-orders){:target="_blank"}，微软 Dynamics 365的文档。
+- [在 Dynamics 365 客户服务中配置权益和服务级别协议](https://learn.microsoft.com/zh-cn/training/paths/work-with-entitlements-and-slas-in-microsoft-dynamics-365-for-customer-service/){:target="_blank"}，微软 Dynamics 365的学习资料。
 
 ---
 
